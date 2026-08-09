@@ -7,7 +7,7 @@ O foco principal deste repositório é:
 Ao longo dos estudos, também serão utilizados recursos, módulos e tecnologias relacionados ao ecossistema Python, como:
 
 - **JSON**
-- **Regex**
+- **RegEx**
 - **SQLite**
 - **Tkinter**
 - **urllib**
