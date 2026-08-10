@@ -1,3 +1,5 @@
+# Aula 03 - Variáveis
+
 def cn():
 
     global canal
