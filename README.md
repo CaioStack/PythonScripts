@@ -20,7 +20,7 @@ Dependendo do projeto, outras bibliotecas, módulos e ferramentas também poder�
 
 O principal objetivo deste repositório é **centralizar e registrar minha jornada de aprendizado em Python**.
 
-Aqui serão armazenados exercícios, projetos, testes e outros conteúdos desenvolvidos ao longo do curso e dos estudos.
+Aqui serão armazenados exercícios, projetos, testes e outros conteúdos desenvolvidos ao longo do tempo.
 
 > Este repositório está em constante evolução e novos conteúdos serão adicionados conforme avanço nos estudos.
 
