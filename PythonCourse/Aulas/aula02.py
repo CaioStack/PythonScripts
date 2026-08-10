@@ -1,3 +1,5 @@
+# Aula 02 - Sintaxe básica
+
 # comentário de uma linha
 
 """
